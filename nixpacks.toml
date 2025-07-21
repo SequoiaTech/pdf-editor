@@ -2,8 +2,9 @@
 NODE_VERSION = "22.12.0"
 
 [phases.setup]
-# Optional: Confirm Node version used during build
-cmds = ["node -v"]
+cmds = [
+  "echo 🚀 Using Node version: $(node -v)"
+]
 
 [phases.install]
 cmds = [
