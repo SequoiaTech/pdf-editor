@@ -20,7 +20,7 @@ COPY . .
 RUN yarn build
 
 # Expose port (adjust according to your app)
-EXPOSE 3000
+EXPOSE 4173
 
 # Start your app (adjust this for your framework)
 CMD ["yarn", "preview"]
