@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "engines": {
-    "node": ">=23 <24"
+    "node": ">=21 <23"
   },
   "author": {
     "name": "tldraw GB Ltd.",
@@ -29,6 +29,6 @@
     "@types/react-dom": "^18.3.5",
     "@vitejs/plugin-react-swc": "^3.10.2",
     "typescript": "^5.8.3",
-    "vite": "^7.0.1"
+    "vite": "^5.3.4"
   }
 }
