@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "engines": {
-    "node": ">=22 <24"
+    "node": ">=23 <24"
   },
   "author": {
     "name": "tldraw GB Ltd.",
